@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <rss version="2.0">
+   <channel>
+     <title>Веб-канал сайта Samir's web</title>
+     <link>http://samirkon12.neonarod.com/rss.xml</link>
+     <description>Новостная лента сайта Samir's Web, замена разделу. Подписывайтесь чтобы не пропускать новые новости</description>
+     <lastBuildDate>Tue, 31 Dec 2022 11:38:00 GMT</lastBuildDate>
+	 <item>
+         <title>С Новым годом!</title>
+         <link>http://samirkon12.neonarod.com/connected.html</link>
+         <description>Сайт Samir's Web поздравляет всех с Новым годом! Ну а я пошёл праздновать</description>
+     </item>
+	 <item>
+         <title>Новый сайт</title>
+         <link>http://samirkon12.neonarod.com/connected.html</link>
+         <description>Сайт снова обновлён, в корне сайта остался старый дизайн и к нему можно вернуться через old.html</description>
+     </item>
+	 <item>
+         <title>Новый баннер</title>
+         <link>http://samirkon12.neonarod.com/connected.html</link>
+         <description>Теперь баннер поменялся! Смените в коде баннера не banner.png, а banner.gif</description>
+     </item>
+	 <item>
+         <title>Moogle</title>
+         <link>http://samirkon12.neonarod.com/news5.html</link>
+         <description>Поисковик на moogle</description>
+     </item>
+	 <item>
+         <title>Часы</title>
+         <link>http://samirkon12.neonarod.com/news4.html</link>
+         <description>Я добавил часы, увидеть можно на сайте или по ссылке чуть сверху</description>
+     </item>
+	 <item>
+         <title>RSS</title>
+         <link>http://samirkon12.neonarod.com/news3.html</link>
+         <description>Я добавил RSS! Подпишитесь!</description>
+     </item>
+     <item>
+         <title>Поиск</title>
+         <link>http://samirkon12.neonarod.com/news2.html</link>
+         <description>Я добавил поисковик</description>
+     </item>
+	 <item>
+         <title>Новый сайт</title>
+         <link>http://samirkon12.neonarod.com/news1.html</link>
+         <description>Я переделал сайт, он теперь лучше!</description>
+     </item>
+	
+   </channel>
+  </rss>
